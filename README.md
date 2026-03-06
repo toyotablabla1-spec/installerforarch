@@ -4,11 +4,11 @@
 
 if you get "fatal: destination path 'installerforarch' already exists and is not an empty directory.", please not use git clone if downloaded file
 
-* *v6 - optimized for size *
+* *v6 - optimized for size*
 
-* *v6.8 - no use (i found error), but +package +Choose (no edit files for change) *
+* *v6.8 - no use (i found error), but +package +Choose (no edit files for change)*
 
-* *v7 fix errors *
+* *v7 fix errors*
 
 # old version: 
 * *1.0 https://drive.google.com/file/d/1hDfBerJSdRqtpSEW8c7DVR1IGWrOQJLW/view?usp=drive_link*
