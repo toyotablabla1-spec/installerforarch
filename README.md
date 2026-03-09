@@ -1,6 +1,6 @@
 # Hyprland + grub themes + more package + blackarch package + homebrew + yay + paru + fastcat
 # for fast and default install:
-```cd ~ && git clone https://github.com/toyotablabla1-spec/Archlinux.git && cd Archlinux/installer7/ && sh install.sh```
+```cd ~ && git clone https://github.com/toyotablabla1-spec/Archlinux.git && cd Archlinux/installer7.5/ && bash install.sh```
 
 if you get "fatal: destination path 'installerforarch' already exists and is not an empty directory.", please not use git clone if downloaded file
 
@@ -10,6 +10,8 @@ if you get "fatal: destination path 'installerforarch' already exists and is not
 
 * *v7 fix errors*
 
+* *v7.5 new icons and back flatpak*
+  
 # old version: 
 * *1.0 https://drive.google.com/file/d/1hDfBerJSdRqtpSEW8c7DVR1IGWrOQJLW/view?usp=drive_link*
 
