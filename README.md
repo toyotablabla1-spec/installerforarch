@@ -1,4 +1,4 @@
-# Hyprland + grub themes + more package + blackarch package + homebrew + yay + paru + fastcat
+# Hyprland + grub themes + more package + blackarch package + homebrew + yay + paru + fastcat + waydroid + wine
 # for fast and default install:
 ```cd ~ && git clone https://github.com/toyotablabla1-spec/Archlinux.git && cd Archlinux/installer7.5/ && bash install.sh```
 
